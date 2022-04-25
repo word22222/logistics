@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/authority-role")
 public class AuthorityRoleController {
 public void bb(){
-
+    System.out.println(123);
 }
 }
 
